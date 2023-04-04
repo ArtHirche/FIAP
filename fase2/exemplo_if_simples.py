@@ -11,3 +11,4 @@ else:
         print(f'Mais informações serão enviadas ao e-mail: {email}.')
     else:
         print('Sua participação foi negada! Você deve ter 18 anos ou mais ou ter autorização de um responsável.')
+print('PROGRAMA FINALIZADO...')
